@@ -45,7 +45,7 @@ def updateSubOptimal(cgx,args,sites):
             ext = {
                 "name": "fc config",
                 "namespace": "fcconfig",
-                "entity_id": None,
+                "entity_id": "8844",
                 "disabled": False,
                 "conf": {
                     "sub_optimal_flow_list_reval" : args["enable_suboptimal"]
