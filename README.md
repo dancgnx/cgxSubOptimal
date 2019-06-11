@@ -22,10 +22,10 @@ cgxSubOptimal.py looks for the following for AUTH, in this order of precedence:
 Exmpale:
 ```
 bash$ ./cgxSubOptimal.py  --site_file sites.txt --enable
-INFO:cgxSIPalg:Death Valley at Death Valley is being configured
-INFO:cgxSIPalg:-- already have fcconfig
-INFO:cgxSIPalg:-- updating fcconfig entry
-INFO:cgxSIPalg:None at Dan Home is being configured
-INFO:cgxSIPalg:-- already have fcconfig
-INFO:cgxSIPalg:-- updating fcconfig entry
+INFO:cgxSubOptimal:Death Valley at Death Valley is being configured
+INFO:cgxSubOptimal:-- already have fcconfig
+INFO:cgxSubOptimal:-- updating fcconfig entry
+INFO:cgxSubOptimal:None at Dan Home is being configured
+INFO:cgxSubOptimal:-- already have fcconfig
+INFO:cgxSubOptimal:-- updating fcconfig entry
 ```

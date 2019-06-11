@@ -74,7 +74,7 @@ if __name__ == "__main__":
 
     #init logging
     logging.basicConfig(level=logging.INFO)
-    log=logging.getLogger("cgxSIPalg")
+    log=logging.getLogger("SubOptimal")
 
     # check params
     if not args["list"]:
